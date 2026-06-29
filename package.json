@@ -24,7 +24,7 @@
     "deploy": "astro build && wrangler deploy"
   },
   "dependencies": {
-    "@astrojs/preact": "^5.1.5",
+    "@astrojs/preact": "^6.0.0",
     "@astrojs/sitemap": "^3.7.3",
     "@dnd-kit/core": "^6.3.1",
     "@dnd-kit/sortable": "^10.0.0",
